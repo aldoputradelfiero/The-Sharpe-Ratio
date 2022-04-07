@@ -1,4 +1,4 @@
-# The Sharpe Ratio
+# The SharpeRatio
 Project Risk and Returns: The Sharpe Ratio
 
 - Topic : Data Manipulation, Data Visualization
